@@ -17,6 +17,7 @@
   --heading-color: #212b36;
   --primary-color: #040d21;
   --white: #ffffff;
+  --hue2: 
 }
 
 body {
@@ -606,11 +607,11 @@ p {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
 }
 
 .ud-hero-buttons .ud-main-btn {
@@ -709,6 +710,14 @@ p {
   margin-bottom: 70px;
 }
 
+.gradient{
+  background: -webkit-linear-gradient(-70deg, #db469f 0%, #2188ff 100%);
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .ud-section-title span {
   font-weight: 600;
   font-size: 18px;
@@ -717,14 +726,22 @@ p {
 }
 
 .ud-section-title h2 {
-  font-weight: 700;
-  font-size: 42px;
+  font-weight: 800;
+  font-size: 48px;
   line-height: 55px;
   text-transform: capitalize;
   color: var(--heading-color);
   margin-bottom: 20px;
 }
 
+.ud-section-title h1 {
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 68px;
+  text-transform: capitalize;
+  color: var(--heading-color);
+  margin-bottom: 20px;
+}
 .ud-section-title p {
   font-size: 20px;
   line-height: 30px;
@@ -873,11 +890,25 @@ p {
   margin-bottom: 20px;
 }
 
+.gradient2 {
+  background: -webkit-linear-gradient(-70deg, #9867f0 0%, #ed4e50 100%);
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .ud-about-content h2 {
-  font-weight: bold;
+  font-weight: 800;
   font-size: 36px;
   line-height: 45px;
   margin-bottom: 30px;
+}
+
+.ud-about-content h1 {
+  font-weight: 800;
+  margin-bottom: 40px;
+  line-height: 45px;
 }
 
 @media (max-width: 767px) {
