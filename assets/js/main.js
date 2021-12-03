@@ -15,7 +15,7 @@
 
     // === logo change
     if (ud_header.classList.contains("sticky")) {
-      logo.src = "https://ai.gov.ae/wp-content/uploads/2021/10/CHQ-Yellow.png";
+      logo.src = "assets/images/logo/CHQ-Invert.png";
     } else {
       logo.src = "https://ai.gov.ae/wp-content/uploads/2021/10/CHQ-Yellow.png";
     }

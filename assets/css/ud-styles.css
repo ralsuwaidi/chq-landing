@@ -459,8 +459,33 @@ p {
   opacity: 0.5;
 }
 
+.logo-wall {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 1rem;
+}
+.logo-wall > div {
+  padding: 1rem;
+  display: grid;
+  place-items: center;
+}
+.logo-wall > div::before {
+  display: block;
+  padding-bottom: 100%;
+  grid-area: 0.25;
+}
+.logo-wall > div img {
+  width: 100%;
+  grid-area: 0.25;
+  filter: invert(48%);
+}
+
+
+
+
 .navbar-btn .ud-white-btn {
-  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.911);
+  border-width: -1pt;
 }
 
 .navbar-btn .ud-white-btn:hover {
