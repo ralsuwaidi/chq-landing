@@ -466,6 +466,8 @@ p {
 }
 .logo-wall > div {
   padding: 1rem;
+  padding-top: 3rem;;
+  padding-bottom: 3rem;;
   display: grid;
   place-items: center;
 }
@@ -561,7 +563,7 @@ p {
   background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: 700;
-  font-size: 45px;
+  font-size: 68px;
   line-height: 60px;
   text-align: center;
   margin-bottom: 30px;
@@ -582,12 +584,11 @@ p {
 }
 
 .ud-hero-content .ud-hero-desc {
-  font-weight: normal;
-  font-size: 20px;
-  line-height: 35px;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
   text-align: center;
   color: var(--white);
-  opacity: 0.8;
   max-width: 600px;
   margin: auto;
   margin-bottom: 30px;
