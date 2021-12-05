@@ -556,6 +556,14 @@ p {
   margin-bottom: 30px;
 }
 
+.gradient3{
+  background: -webkit-linear-gradient(-70deg, #a2facf 0%, #64acff 100%);
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .ud-hero-content .ud-hero-title {
   background: -webkit-linear-gradient(-70deg, #a2facf 0%, #64acff 100%);
   background-clip: border-box;
@@ -726,8 +734,8 @@ p {
 
 .ud-section-title h2 {
   font-weight: 800;
-  font-size: 48px;
-  line-height: 55px;
+  font-size: 64px ;
+  line-height: 68px ;
   text-transform: capitalize;
   color: var(--heading-color);
   margin-bottom: 20px;
@@ -756,6 +764,7 @@ p {
 .ud-section-title p {
   font-size: 20px;
   line-height: 30px;
+  color: var(--heading-color);
 }
 
 @media (max-width: 767px) {
@@ -844,7 +853,7 @@ p {
 
 /* ===== About CSS ===== */
 .ud-about {
-  background: #f3f4fe;
+  background: var(--primary-color);
   padding: 120px 0;
 }
 
@@ -1072,7 +1081,7 @@ p {
 .ud-faq {
   padding-top: 120px;
   padding-bottom: 90px;
-  background: #f3f4fe;
+  background:var(--primary-color);
   position: relative;
   z-index: 1;
 }
