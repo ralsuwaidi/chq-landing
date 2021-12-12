@@ -467,8 +467,8 @@ p {
 }
 .logo-wall > div {
   padding: 1rem;
-  padding-top: 3rem;;
-  padding-bottom: 3rem;;
+  padding-top: 2.5rem;;
+  padding-bottom: 2.5rem;;
   display: grid;
   place-items: center;
 }
@@ -480,7 +480,7 @@ p {
 .logo-wall > div img {
   width: 100%;
   grid-area: 0.25;
-  filter: invert(48%);
+  /* filter: invert(48%); */
 }
 
 
