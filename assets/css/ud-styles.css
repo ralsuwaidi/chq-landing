@@ -660,14 +660,14 @@ p {
   margin-bottom: 40px;
 }
 
-.ud-hero-brands-wrapper img {
+.ud-hero-brands-wrapper a {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   opacity: 0.5;
   max-width: 250px;
 }
 
-.ud-hero-brands-wrapper img:hover {
+.ud-hero-brands-wrapper a:hover {
   opacity: 1;
 }
 
@@ -1410,7 +1410,7 @@ p {
   top: 0;
   left: 0;
   height: 50%;
-  background: #f3f4fe;
+  background: var(--primary-color);
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -1421,12 +1421,14 @@ p {
 
 .ud-contact-title {
   margin-bottom: 150px;
+  color: white;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .ud-contact-title {
     margin-bottom: 50px;
-  }
+    color: white;
+}
 }
 
 .ud-contact-title span {
@@ -1434,12 +1436,14 @@ p {
   font-weight: 600;
   font-size: 15px;
   margin-bottom: 20px;
+  color: white;
 }
 
 .ud-contact-title h2 {
   font-weight: 600;
   font-size: 35px;
   line-height: 41px;
+  color: white;
 }
 
 .ud-contact-info-wrapper {
