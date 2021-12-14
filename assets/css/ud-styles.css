@@ -464,11 +464,12 @@ p {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   grid-gap: 1rem;
+  background: var(--primary-color);
 }
 .logo-wall > div {
   padding: 1rem;
-  padding-top: 2.5rem;;
-  padding-bottom: 2.5rem;;
+  padding-top: 1rem;;
+  padding-bottom: 1rem;;
   display: grid;
   place-items: center;
 }
@@ -480,10 +481,7 @@ p {
 .logo-wall > div img {
   width: 100%;
   grid-area: 0.25;
-  /* filter: invert(48%); */
 }
-
-
 
 
 .navbar-btn .ud-white-btn {
