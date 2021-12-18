@@ -895,6 +895,45 @@ p {
   color: var(--primary-color);
 }
 
+/* ===== Collaboration CSS ===== */
+.ud-collab {
+  padding-top: 120px;
+  padding-bottom: 110px;
+}
+
+@media (max-width: 767px) {
+  .ud-collab {
+    padding-top: 80px;
+    padding-bottom: 60px;
+  }
+}
+
+.ud-collab-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.ud-collab-github {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+
+}
+
+.ud-collab-logo {
+  text-align: center;
+}
+
+.ud-collab-logo img {
+  width: 50%;
+}
+
+
 /* ===== About CSS ===== */
 .ud-about {
   background: var(--primary-color);
