@@ -1477,6 +1477,7 @@ p {
 .ud-contact {
   padding: 120px 0px;
   position: relative;
+  background-color: var(--primary-color);
 }
 
 @media (max-width: 767px) {
@@ -1557,7 +1558,7 @@ p {
 
 .ud-contact-info-wrapper .ud-info-icon {
   font-size: 32px;
-  color: var(--primary-color);
+  color: white;
   margin-right: 24px;
 }
 
@@ -1565,11 +1566,13 @@ p {
   font-weight: 600;
   font-size: 18px;
   margin-bottom: 15px;
+  color: white;
 }
 
 .ud-contact-info-wrapper .ud-info-meta p {
   font-size: 15px;
   line-height: 24px;
+  color: white;
 }
 
 .ud-contact-form-wrapper {
@@ -1633,7 +1636,7 @@ p {
 
 /* ===== Footer CSS ===== */
 .ud-footer {
-  background: var(--heading-color);
+  background: white;
   padding-top: 100px;
   position: relative;
   z-index: 1;
@@ -1662,12 +1665,14 @@ p {
 
 .ud-widget {
   margin-bottom: 50px;
+  color: black;
 }
 
 .ud-widget .ud-footer-logo {
   max-width: 160px;
   display: block;
   margin-bottom: 10px;
+  filter: invert(100%);
 }
 
 .ud-widget .ud-footer-logo img {
@@ -1677,7 +1682,7 @@ p {
 .ud-widget .ud-widget-desc {
   font-size: 15px;
   line-height: 24px;
-  color: #f3f4fe;
+  color: black;
   margin-bottom: 30px;
   max-width: 260px;
 }
@@ -1705,7 +1710,7 @@ p {
   font-weight: 600;
   font-size: 18px;
   margin-bottom: 35px;
-  color: var(--white);
+  color: black;
 }
 
 .ud-widget .ud-widget-links a {
@@ -1713,7 +1718,7 @@ p {
   margin-bottom: 12px;
   font-size: 15px;
   line-height: 30px;
-  color: #f3f4fe;
+  color: black;
 }
 
 .ud-widget .ud-widget-links a:hover {
@@ -1770,7 +1775,7 @@ p {
 .ud-footer-bottom .ud-footer-bottom-left a {
   font-weight: normal;
   font-size: 15px;
-  color: #f3f4fe;
+  color: black;
   margin-right: 30px;
   display: inline-block;
 }
@@ -1789,7 +1794,7 @@ p {
   text-align: right;
   font-weight: normal;
   font-size: 15px;
-  color: #f3f4fe;
+  color: black;
 }
 
 .ud-footer-bottom .ud-footer-bottom-right a {
