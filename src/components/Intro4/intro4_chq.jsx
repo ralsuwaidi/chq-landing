@@ -11,7 +11,7 @@ const Intro4CHQ = ({ sliderRef, blackStar }) => {
           <div className="col-lg-10">
             <div className="cont text-center">
               <h1>
-                <span className="color-font">Coders(HQ),</span> we are the HQ 
+                <span className="color-font">Coders(hq),</span> we are the hq 
                 of <span className="color-font">coding</span>.
               </h1>
             </div>

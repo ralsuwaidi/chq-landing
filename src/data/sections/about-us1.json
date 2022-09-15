@@ -1,8 +1,8 @@
 {
   "id": 1,
   "smallTitle": "About Us",
-  "title": "What is CodersHQ",
-  "content": "Coders HQ was built based on enabling coders, coding communities, and anyone who wants to code. This initiative was formulated based on supporting coders, who work as strategic enablers to the UAE digital economy.",
+  "title": "What is Coders(HQ)",
+  "content": "Coders(hq) was built based on enabling coders, coding communities, and anyone who wants to code. This initiative was formulated based on supporting coders, who work as strategic enablers to the UAE digital economy.",
   "image": "/img/codershq/ambassador_mobile.jpg",
   "stauts": [
     { "id": 1, "number": "1.5", "letter": "K", "stautsName": "Discord Members" },

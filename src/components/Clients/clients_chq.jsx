@@ -17,7 +17,7 @@ const Clients = ({theme}) => {
               </h6>
               <h3 className="wow mb-20 color-font">Our Partners</h3>
               <p>
-                CodersHQ is supported by a large network of partners of partners.
+                Coders(hq) is supported by a large network of partners of partners.
               </p>
             </div>
           </div>
