@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Ambassadors",
+    "secTex": "Represent Coders(hq) ",
+    "image": "/img/codershq/ambassador.png",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 2,
+    "title": "Assessment",
+    "secTex": "Show Your Skills",
+    "image": "/img/codershq/assessment.png",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 3,
+    "title": "Inspire",
+    "secTex": "The Brightest Minds",
+    "image": "/img/codershq/inspire.png",
+    "slug": "/project-details2/project-details2-dark"
+  }
+]

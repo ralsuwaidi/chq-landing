@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "image1": "/img/01.jpg",
+  "image2": "/img/02.jpg",
+  "exp": {
+    "nmb": 28,
+    "name": "Years Of Experience"
+  },
+  "title": { "first": "Unlimited Skills", "second": "for Super Projects." },
+  "content": {
+    "first": "Branding is no longer simply about visual appeal (or the cherry in the apple pie example, as given in my earlier article).",
+    "second": "We develop creative solutions for small and big brands alike, build authentic product identities and much more."
+  },
+  "smallTitle": "About Us"
+}

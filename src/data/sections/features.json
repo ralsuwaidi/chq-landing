@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "pe-7s-users",
+        "title": "A Strong Community",
+        "content": "Communities are an essential pillar enabling the UAEs digital economy."
+    },
+    {
+        "id": 2,
+        "icon": "pe-7s-notebook",
+        "title": "Updating our members",
+        "content": "A coders journey is a continuously evolving one."
+    },
+    {
+        "id": 3,
+        "icon": "pe-7s-display1",
+        "title": "Connecting to industry",
+        "content": "Connect Coders to the best opportunities."
+    },
+    {
+        "id": 4,
+        "icon": "pe-7s-diskette",
+        "title": "Document Legal Policy",
+        "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+    }
+]
