@@ -4,7 +4,7 @@ import LightTheme from "../../layouts/Light";
 import Intro4CHQ from "../../components/Intro4/intro4_chq";
 import AboutUs from "../../components/About-us/about-us";
 import MinimalAreaCHQ from "../../components/Minimal-Area2/minimal-area2-chq";
-import WorksCHQ from "../../components/Works/works-CHQ";
+import WorksCHQ from "../../components/Works/works-chq";
 import ServicesCHQ from "../../components/Services/services_chq";
 import ClientsCHQ from "../../components/Clients/clients_chq";
 import NavbarCHQ from "../../components/Navbar/navbar_chq";
