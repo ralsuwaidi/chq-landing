@@ -1,26 +1,26 @@
 [
     {
         "id": 1,
-        "title": {"first": "Midnight", "second": "Snack"},
-        "image": "/img/portfolio/full/1.jpg",
+        "title": {"first": "Sheryl", "second": "Sandberg"},
+        "image": "/img/codershq/inspire/sheryl/sheryl.png",
         "sub": "Design"
     },
     {
       "id": 2,
-      "title": { "first": "Fisherman", "second": "Portrait" },
-      "image": "/img/portfolio/full/2.jpg",
+      "title": { "first": "Gary", "second": "Vaynerchuck" },
+      "image": "/img/codershq/inspire/gary/gary.png",
       "sub": "Design"
     },
     {
       "id": 3,
-      "title": { "first": "Tribos", "second": "Urbanas" },
-      "image": "/img/portfolio/full/3.jpg",
+      "title": { "first": "will.i.am", "second": "" },
+      "image": "/img/codershq/inspire/william/william.png",
       "sub": "Design"
     },
     {
       "id": 4,
-      "title": { "first": "Monsoon", "second": "in the city" },
-      "image": "/img/portfolio/full/4.jpg",
+      "title": { "first": "Steve", "second": "Wozniak" },
+      "image": "/img/codershq/inspire/steve/steve.png",
       "sub": "Design"
     }
 ]
