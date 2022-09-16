@@ -89,7 +89,7 @@ const ShowcasesFullScreen = () => {
                         <div className="caption">
                           <h1>
                             <Link
-                              href={`/project-details2/project-details2-dark`}
+                              href={slide.slug}
                             >
                               <a>
                                 <div
@@ -107,7 +107,7 @@ const ShowcasesFullScreen = () => {
                           </h1>
                           <div className="discover">
                             <Link
-                              href={`/works/works-dark`}
+                              href={slide.slug}
                             >
                               <a>
                                 <span>

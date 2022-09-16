@@ -2,15 +2,14 @@ import React from "react";
 import Navbar from "../../components/Navbar/navbar";
 import Footer from "../../components/Footer/footer";
 import DarkTheme from "../../layouts/Dark";
-import ProjectDetails2Header from "../../components/Project-details2-header/project-details2-header";
-import ProjectDate from "../../data/project-details2.json";
 import ProjectIntroduction from "../../components/Project-introduction/project-introduction";
-import ProjectGallery from "../../components/Project-gallery/project-gallery";
 import ProjectDescription from "../../components/Project-description/project-description";
 import ProjectVideo from "../../components/Project-video/project-video";
-import NextProject from "../../components/Next-project/next-project";
+import Inspire from "../../data/inspire.json"
+import ProjectDetailsInspire from "../../components/Project-details2-header/project-details-inspire";
+import ProjectGallery4 from "../../components/Project-gallery/project-gallery-inspire";
 
-const ProjectDetailsGarry = () => {
+const DetailsGary = () => {
   const navbarRef = React.useRef(null);
   const logoRef = React.useRef(null);
 
@@ -34,16 +33,15 @@ const ProjectDetailsGarry = () => {
     <DarkTheme>
       <Navbar nr={navbarRef} lr={logoRef} />
       <div className="wrapper">
-        <ProjectDetails2Header projectHeaderData={ProjectDate} />
-        <ProjectIntroduction projectIntroductionData={ProjectDate.intro} />
-        <ProjectGallery />
-        <ProjectDescription projectDescriptionData={ProjectDate.description} />
-        <ProjectVideo projectVideoDate={ProjectDate} />
-        <NextProject />
+        <ProjectDetailsInspire projectHeaderData={Inspire} />
+        <ProjectIntroduction projectIntroductionData={Inspire.intro} />
+        <ProjectGallery4 imageList={Inspire.gallery}/>
+        <ProjectDescription projectDescriptionData={Inspire.description} />
+        <ProjectVideo projectVideoDate={Inspire} />
         <Footer />
       </div>
     </DarkTheme>
   );
 };
 
-export default ProjectDetailsGarry;
+export default DetailsGary;

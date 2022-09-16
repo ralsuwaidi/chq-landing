@@ -18,10 +18,10 @@ const ProjectVideo = ({ projectVideoDate }) => {
           <div className="full-width text-center">
             {typeof window !== "undefined" && (
               <ModalVideo
-                channel="vimeo"
+                channel="youtube"
                 autoplay
                 isOpen={isOpen}
-                videoId="127203262"
+                videoId={projectVideoDate.youtube}
                 onClose={() => setOpen(false)}
               />
             )}

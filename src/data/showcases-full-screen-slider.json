@@ -3,24 +3,28 @@
         "id": 1,
         "title": {"first": "Sheryl", "second": "Sandberg"},
         "image": "/img/codershq/inspire/sheryl/sheryl.png",
-        "sub": "Design"
+        "sub": "Design",
+        "slug": "/inspire/sheryl"
     },
     {
       "id": 2,
       "title": { "first": "Gary", "second": "Vaynerchuck" },
       "image": "/img/codershq/inspire/gary/gary.png",
-      "sub": "Design"
+      "sub": "Design",
+      "slug": "/inspire/gary"
     },
     {
       "id": 3,
       "title": { "first": "will.i.am", "second": "" },
       "image": "/img/codershq/inspire/william/william.png",
-      "sub": "Design"
+      "sub": "Design",
+      "slug": "/inspire/william"
     },
     {
       "id": 4,
       "title": { "first": "Steve", "second": "Wozniak" },
       "image": "/img/codershq/inspire/steve/steve.png",
-      "sub": "Design"
+      "sub": "Design",
+      "slug": "/inspire/steve"
     }
 ]
