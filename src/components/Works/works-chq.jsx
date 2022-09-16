@@ -83,11 +83,11 @@ const WorksCHQ = () => {
                         />
                         <div className="cont">
                           <h6 className="color-font">
-                            <a href="#0">{item.title}</a>
+                            <a href={item.slug}>{item.title}</a>
                           </h6>
                           <h4>
                             <Link
-                              href={`/project-details2/project-details2-dark`}
+                              href={item.slug}
                             >
                               {item.secTex}
                             </Link>
