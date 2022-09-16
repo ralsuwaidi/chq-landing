@@ -3,48 +3,48 @@
         "id": 1,
         "lightImage": "/img/codershq/logos/logo_aws.png",
         "darkImage": "/img/codershq/logos/logo_aws.png",
-        "url": "www.amazon.com"
+        "url": "amazon.com"
     },
     {
         "id": 2,
         "lightImage": "/img/codershq/logos/logo_emirates.png",
         "darkImage": "/img/clients/brands/dark/02.png",
-        "url": "www.Vie.com"
+        "url": "emirates.com"
     },
     {
         "id": 3,
         "lightImage": "/img/codershq/logos/logo_microsoft.png",
         "darkImage": "/img/clients/brands/dark/03.png",
-        "url": "www.Vie.com"
+        "url": "microsoft.com"
     },
     {
         "id": 4,
         "lightImage": "/img/codershq/logos/logo_dell.png",
         "darkImage": "/img/clients/brands/dark/04.png",
-        "url": "www.Vie.com"
+        "url": "dell.com"
     },
     {
         "id": 5,
         "lightImage": "/img/codershq/logos/logo_g42.png",
         "darkImage": "/img/clients/brands/dark/05.png",
-        "url": "www.Vie.com"
+        "url": "g42.ai"
     },
     {
         "id": 6,
         "lightImage": "/img/codershq/logos/logo_google.png",
         "darkImage": "/img/clients/brands/dark/06.png",
-        "url": "www.Vie.com"
+        "url": "google.com"
     },
     {
         "id": 7,
         "lightImage": "/img/codershq/logos/logo_maf.png",
         "darkImage": "/img/clients/brands/dark/07.png",
-        "url": "www.Vie.com"
+        "url": "majidalfuttaim.com"
     },
     {
         "id": 8,
         "lightImage": "/img/codershq/logos/logo_huawei.png",
         "darkImage": "/img/clients/brands/dark/08.png",
-        "url": "www.Vie.com"
+        "url": "huawei.com"
     }
 ]
