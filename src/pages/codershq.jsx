@@ -1,14 +1,14 @@
 import React from "react";
 import Footer from "../components/Footer/footer";
 import LightTheme from "../layouts/Light";
-import Intro4CHQ from "../components/Intro4/intro4_chq";
+import Intro4CHQ from "../components/CodersHQ/intro4_chq";
 import AboutUs from "../components/About-us/about-us";
-import MinimalAreaCHQ from "../components/Minimal-Area2/minimal-area2-chq";
-import WorksCHQ from "../components/Works/works-chq";
-import ServicesCHQ from "../components/Services/services_chq";
-import ClientsCHQ from "../components/Clients/clients_chq";
-import NavbarCHQ from "../components/Navbar/navbar_chq";
-import CallToActionCHQ from "../components/Call-to-action/call-to-action-chq";
+import MinimalAreaCHQ from "../components/CodersHQ/minimal-area2-chq";
+import WorksCHQ from "../components/CodersHQ/works-chq";
+import ServicesCHQ from "../components/CodersHQ/services_chq";
+import ClientsCHQ from "../components/CodersHQ/clients_chq";
+import NavbarCHQ from "../components/CodersHQ/navbar_chq";
+import CallToActionCHQ from "../components/CodersHQ/call-to-action-chq";
 
 const Homepage = () => {
   const navbarRef = React.useRef(null);

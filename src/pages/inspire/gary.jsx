@@ -6,8 +6,8 @@ import ProjectIntroduction from "../../components/Project-introduction/project-i
 import ProjectDescription from "../../components/Project-description/project-description";
 import ProjectVideo from "../../components/Project-video/project-video";
 import Inspire from "../../data/inspire.json"
-import ProjectDetailsInspire from "../../components/Project-details2-header/project-details-inspire";
-import ProjectGallery4 from "../../components/Project-gallery/project-gallery-inspire";
+import InspireDetails from "../../components/CodersHQ/Inspire/project-details-inspire.jsx";
+import InspireGallery from "../../components/CodersHQ/Inspire/project-gallery-inspire";
 
 const DetailsGary = () => {
   const navbarRef = React.useRef(null);
@@ -33,9 +33,9 @@ const DetailsGary = () => {
     <DarkTheme>
       <Navbar nr={navbarRef} lr={logoRef} />
       <div className="wrapper">
-        <ProjectDetailsInspire projectHeaderData={Inspire} />
+        <InspireDetails projectHeaderData={Inspire} />
         <ProjectIntroduction projectIntroductionData={Inspire.intro} />
-        <ProjectGallery4 imageList={Inspire.gallery}/>
+        <InspireGallery imageList={Inspire.gallery}/>
         <ProjectDescription projectDescriptionData={Inspire.description} />
         <ProjectVideo projectVideoDate={Inspire} />
         <Footer />
