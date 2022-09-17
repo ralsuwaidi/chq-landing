@@ -4,14 +4,14 @@
     "title": "Ambassadors",
     "secTex": "Represent Coders(hq) ",
     "image": "/img/codershq/ambassador.png",
-    "slug": "/project-details2/project-details2-dark"
+    "slug": "/ambassador"
   },
   {
     "id": 2,
     "title": "Assessment",
     "secTex": "Show Your Skills",
     "image": "/img/codershq/assessment.png",
-    "slug": "/project-details2/project-details2-dark"
+    "slug": "/assessment"
   },
   {
     "id": 3,

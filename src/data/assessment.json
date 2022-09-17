@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Coders(hq) Assessment",
+        "content": "Verify local coder’s competency, via a standard industry baseline.",
+        "image": "/img/slid/02.jpg"
+    },
+    {
+        "id": 2,
+        "title": "COmpare yourself with the best",
+        "content": "Fast-track the process of employing coders in the private sector .",
+        "image": "/img/slid/03.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Find where you can improve",
+        "content": "Categorise coders based on their field of expertise and talent",
+        "image": "/img/slid/01.jpg"
+    }
+]
