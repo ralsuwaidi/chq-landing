@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../components/CodersHQ/navbar_chq";
+import Navbar from "../../components/CodersHQ/navbar_chq";
 import Footer from "../../components/Footer/footer";
 import Team from "../../components/Team/team";
 import LightTheme from "../../layouts/Light";
