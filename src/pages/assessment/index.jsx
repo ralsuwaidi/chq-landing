@@ -13,6 +13,7 @@ import SContactForm from "../../components/s-contact-form/s-contact-form";
 import IntroWithSliderAssessment from "../../components/Intro-with-slider/intro-with-slider-assessment";
 import AboutUs4Assessment from "../../components/About-us4/about-us4-assessment";
 import Services2Assessment from "../../components/Services2/services2assessment";
+import ComingSoonBanner from "../../components/Next-project/coming-soon";
 
 const Homepage4 = () => {
   const fixedSlider = React.useRef(null);
@@ -53,7 +54,7 @@ const Homepage4 = () => {
         <Services2Assessment style="4item" />
         <AboutUs4Assessment />
         <Team />
-        <SContactForm />
+        <ComingSoonBanner/>
         <Footer hideBGCOLOR />
       </div>
     </LightTheme>

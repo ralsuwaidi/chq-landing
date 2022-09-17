@@ -1,6 +1,6 @@
 import React from "react";
 
-const Services5 = ({featuresData}) => {
+const Services5Ambassador = ({featuresData}) => {
   return (
     <section className="services box lficon section-padding position-re">
       <div className="container">
@@ -8,10 +8,10 @@ const Services5 = ({featuresData}) => {
           <div className="col-lg-8 col-md-10">
             <div className="sec-head  text-center">
               <h6 className="wow fadeIn" data-wow-delay=".5s">
-                Best Features
+                Projects
               </h6>
               <h3 className="wow color-font">
-                We are a new digital product development agency
+                Ambassadors will lead projects with the community
               </h3>
             </div>
           </div>
@@ -49,4 +49,4 @@ const Services5 = ({featuresData}) => {
   );
 };
 
-export default Services5;
+export default Services5Ambassador;

@@ -2,25 +2,25 @@
     {
         "id": 1,
         "icon": "pe-7s-users",
-        "title": "A Strong Community",
-        "content": "Communities are an essential pillar enabling the UAEs digital economy."
+        "title": "CHQ Backend",
+        "content": "Coders(hq) backend where our other tools and services can connect to it using an API."
     },
     {
         "id": 2,
         "icon": "pe-7s-notebook",
-        "title": "Updating our members",
-        "content": "A coders journey is a continuously evolving one."
+        "title": "CHQ Interface",
+        "content": "Admin panel, CLI and other smaller projects which gives an interface to the backend."
     },
     {
         "id": 3,
         "icon": "pe-7s-display1",
-        "title": "Connecting to industry",
-        "content": "Connect Coders to the best opportunities."
+        "title": "CHQ Bounty",
+        "content": "A board where companies can post challenges and coders can compete to solve them."
     },
     {
         "id": 4,
         "icon": "pe-7s-diskette",
-        "title": "Document Legal Policy",
-        "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+        "title": "Auxiliary Projects",
+        "content": "Are a group of partner projects that are impactful but are not core CHQ projects."
     }
 ]
