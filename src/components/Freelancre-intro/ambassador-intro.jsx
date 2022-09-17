@@ -24,9 +24,9 @@ const AmbassadorIntro = () => {
                     options={{
                       wrapperClassName: "color-font fw-600",
                       strings: [
-                        "An Open-Source Project",
-                        "Creating Workshops",
-                        "Representing Codrs(hq)",
+                        "Projects",
+                        "Workshops",
+                        "Events",
                       ],
                       autoStart: true,
                       loop: true,
