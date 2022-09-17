@@ -1,15 +1,14 @@
 import React from "react";
-import Navbar from "../../components/Navbar/navbar";
 import Footer from "../../components/Footer/footer";
 import LightTheme from "../../layouts/Light";
 import AmbassadorIntro from "../../components/Freelancre-intro/ambassador-intro";
 import AboutIntro from "../../components/About-intro";
 import featuresData from "../../data/sections/features.json";
 import Services5Ambassador from "../../components/Services5/services5-ambassador";
-import CallToAction from "../../components/Call-to-action/call-to-action";
 import TeamAmbassadors from "../../components/Team2/team-ambassadors";
 import AmbassadorTiers from "../../components/Minimal-Area/ambassador-tiers";
 import AmbassadorCTA from "../../components/Call-to-action/call-to-action-ambassador";
+import Navbar from "../../components/CodersHQ/navbar_chq";
 
 const Homepage = () => {
   const navbarRef = React.useRef(null);

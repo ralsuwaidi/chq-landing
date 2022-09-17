@@ -7,7 +7,7 @@ import MinimalAreaCHQ from "../components/CodersHQ/minimal-area2-chq";
 import WorksCHQ from "../components/CodersHQ/works-chq";
 import ServicesCHQ from "../components/CodersHQ/services_chq";
 import ClientsCHQ from "../components/CodersHQ/clients_chq";
-import NavbarCHQ from "../components/CodersHQ/navbar_chq";
+import Navbar from "../components/CodersHQ/navbar_chq";
 import CallToActionCHQ from "../components/CodersHQ/call-to-action-chq";
 
 const Homepage = () => {
@@ -42,7 +42,7 @@ const Homepage = () => {
   }, [navbarRef]);
   return (
     <LightTheme>
-      <NavbarCHQ nr={navbarRef} lr={logoRef} theme="themeL" />
+      <Navbar nr={navbarRef} lr={logoRef} theme="themeL" />
       <Intro4CHQ blackStar />
       <AboutUs />
       <ServicesCHQ />

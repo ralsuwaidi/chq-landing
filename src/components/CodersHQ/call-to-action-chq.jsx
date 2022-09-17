@@ -26,13 +26,15 @@ const CallToActionCHQ = ({img}) => {
 
             <div className="col-md-4 col-lg-3 valign">
               <Link
-                href={`/contact/contact-dark`}
+                href={`https://discord.com/invite/CPQHAZrg8b`}
               >
                 <a
-                  className="butn bord curve wow fadeInUp"
+                  className="img wow fadeInUp"
                   data-wow-delay=".5s"
                 >
-                  <span>Join Us</span>
+                  <div>
+                    <img src='/img/codershq/discord-invite.png' />
+                  </div>
                 </a>
               </Link>
             </div>
