@@ -111,7 +111,7 @@ const Navbar = ({ lr, nr, theme }) => {
             </li>
             <li className="nav-item">
               <Link href={`/contact/contact-dark`}>
-                <a className="butn bord curve nav-link join">Join</a>
+                <a className="nav-link color-font font-weight-bold">(Join)</a>
               </Link>
             </li>
           </ul>
