@@ -1,0 +1,49 @@
+{
+    "id": 1,
+    "title": { "small": "(get) inspired", "big": "GaryVee" },
+    "clientURLLink": "#",
+    "projectHeaderImage": "/img/codershq/inspire/william/cover.jpg",
+    "videoLink": "https://vimeo.com/127203262",
+    "clientURLName": "garyvaynerchuk.com",
+    "date": "March 9, 2022",
+    "categories": [
+      {
+        "id": 1,
+        "name": "\"Lean into curiosity: Always approach everything you hear that is new with maybe\"",
+        "link": "#"
+      }
+    ],
+    "intro": {
+      "content": "Gary Vaynerchuk is considered one of the most actively vigorous social media influencers, predicting that Web 3.0, NFTs and blockchain will become the greatest game-changers in technology that will zealously restructure the entirety of today's technological foundations.",
+      "spmList": [
+        {
+          "id": 1,
+          "name": "Aenean sollicitudin"
+        },
+        {
+          "id": 2,
+          "name": "lorem quis bibendum auctor"
+        },
+        {
+          "id": 31,
+          "name": "nisi elit conseq uat ipsum"
+        },
+        {
+          "id": 4,
+          "name": "nec sagittis sem nibh id elit"
+        }
+      ]
+    },
+    "gallery": [
+      "/img/codershq/inspire/gary/gary_s1.jpg",
+      "/img/codershq/inspire/gary/gary_s2.jpg",
+      "/img/codershq/inspire/gary/gary_s3.jpg",
+      "/img/codershq/inspire/gary/gary_s4.jpg",
+      "/img/codershq/inspire/gary/gary_l.jpg"
+    ],
+    "description": {
+      "content": "Garyvee is also considered an early investor in gigantic technological behemoths, where he recognized early potential in companies such as Snap, Meta (previously Facebook), Twitter and Coinbase."
+    },
+    "youtube": "OCP7azlQwp0"
+  }
+  
