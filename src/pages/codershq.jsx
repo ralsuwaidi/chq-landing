@@ -7,7 +7,7 @@ import MinimalAreaCHQ from "../components/CodersHQ/minimal-area2-chq";
 import WorksCHQ from "../components/CodersHQ/works-chq";
 import ServicesCHQ from "../components/CodersHQ/services_chq";
 import ClientsCHQ from "../components/CodersHQ/clients_chq";
-import Navbar from "../components/CodersHQ/navbar_chq";
+import Navbar from "../components/Navbar/navbar";
 import CallToActionCHQ from "../components/CodersHQ/call-to-action-chq";
 
 const Homepage = () => {

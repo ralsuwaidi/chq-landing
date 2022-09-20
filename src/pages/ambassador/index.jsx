@@ -8,7 +8,7 @@ import Services5Ambassador from "../../components/Services5/services5-ambassador
 import TeamAmbassadors from "../../components/Team2/team-ambassadors";
 import AmbassadorTiers from "../../components/Minimal-Area/ambassador-tiers";
 import AmbassadorCTA from "../../components/Call-to-action/call-to-action-ambassador";
-import Navbar from "../../components/CodersHQ/navbar_chq";
+import Navbar from "../../components/Navbar/navbar";
 
 const Homepage = () => {
   const navbarRef = React.useRef(null);

@@ -7,7 +7,7 @@ import ProjectVideo from "../../components/Project-video/project-video";
 import Inspire from "../../data/ambassadors/william-data.json"
 import InspireDetails from "../../components/CodersHQ/Inspire/project-details-inspire.jsx";
 import InspireGallery from "../../components/CodersHQ/Inspire/project-gallery-inspire";
-import Navbar from "../../components/CodersHQ/navbar_chq";
+import Navbar from "../../components/Navbar/navbar";
 
 const DetailsWill = () => {
   const navbarRef = React.useRef(null);
