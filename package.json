@@ -1,5 +1,5 @@
 {
-  "name": "vie-react",
+  "name": "chq-landing-page",
   "private": true,
   "scripts": {
     "dev": "next dev",
