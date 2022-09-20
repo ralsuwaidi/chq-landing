@@ -1,38 +1,19 @@
 {
     "id": 1,
-    "title": { "small": "(get) inspired", "big": "GaryVee" },
-    "clientURLLink": "#",
+    "title": { "small": "(get) inspired", "big": "will.i.am" },
+    "clientURLLink": "https://will.i.am",
     "projectHeaderImage": "/img/codershq/inspire/william/cover.jpg",
-    "videoLink": "https://vimeo.com/127203262",
-    "clientURLName": "garyvaynerchuk.com",
-    "date": "March 9, 2022",
+    "clientURLName": "will.i.am",
+    "date": "Jan 25, 2021",
     "categories": [
       {
         "id": 1,
-        "name": "\"Lean into curiosity: Always approach everything you hear that is new with maybe\"",
+        "name": "\"If I was 15 years old again - I would not be in the music industry, I would learn to code, its the way to create.\"",
         "link": "#"
       }
     ],
     "intro": {
-      "content": "Gary Vaynerchuk is considered one of the most actively vigorous social media influencers, predicting that Web 3.0, NFTs and blockchain will become the greatest game-changers in technology that will zealously restructure the entirety of today's technological foundations.",
-      "spmList": [
-        {
-          "id": 1,
-          "name": "Aenean sollicitudin"
-        },
-        {
-          "id": 2,
-          "name": "lorem quis bibendum auctor"
-        },
-        {
-          "id": 31,
-          "name": "nisi elit conseq uat ipsum"
-        },
-        {
-          "id": 4,
-          "name": "nec sagittis sem nibh id elit"
-        }
-      ]
+      "content": "will.i.am, tech entrepreneur and digital artist. In addition to being the founder and lead member of the Black Eyed Peas musical group, will.i.am was also named the Director of Creative Innovation by Intel."
     },
     "gallery": [
       "/img/codershq/inspire/gary/gary_s1.jpg",
@@ -42,8 +23,9 @@
       "/img/codershq/inspire/gary/gary_l.jpg"
     ],
     "description": {
-      "content": "Garyvee is also considered an early investor in gigantic technological behemoths, where he recognized early potential in companies such as Snap, Meta (previously Facebook), Twitter and Coinbase."
+      "content": "As one of the co-founders of Beats, a wearable technology company that was acquired by Apple in 2014, the music legend possesses a strong spirit for technology which was clearly expressed in his session, where he shared personal stories and reinforced the importance of enabling digital communities."
     },
-    "youtube": "OCP7azlQwp0"
+    "youtube": "RQpMMm6Nbt4",
+    "videoLink": "https://youtu.be/RQpMMm6Nbt4"
   }
   

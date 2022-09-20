@@ -17,11 +17,7 @@ const ProjectIntroduction = ({ projectIntroductionData }) => {
               <p className="extra-text">
                 {projectIntroductionData.content}
               </p>
-              <ul className="smp-list mt-30">
-                {projectIntroductionData.spmList.map((item) => (
-                  <li key={item.id}>{item.name}</li>
-                ))}
-              </ul>
+
             </div>
           </div>
         </div>

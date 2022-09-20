@@ -1,0 +1,31 @@
+{
+    "id": 1,
+    "title": { "small": "(get) inspired", "big": "Sheryl Sandberg" },
+    "clientURLLink": "https://leanin.org/book",
+    "projectHeaderImage": "/img/codershq/inspire/william/cover.jpg",
+    "clientURLName": "leanin.org",
+    "date": "March 9, 2022",
+    "categories": [
+      {
+        "id": 1,
+        "name": "\"Leadership is about making others better as a result of your presence and making sure that impact lasts in your absence\"",
+        "link": "#"
+      }
+    ],
+    "intro": {
+      "content": "Sheryl Sandberg is an American business executive, and philanthropist. Sandberg is the chief operating officer (COO) of Meta Platforms and the founder of LeanIn.Org. In June 2012, she was elected to Facebook's board of directors, becoming the first woman to serve on its board."
+    },
+    "gallery": [
+      "/img/codershq/inspire/gary/gary_s1.jpg",
+      "/img/codershq/inspire/gary/gary_s2.jpg",
+      "/img/codershq/inspire/gary/gary_s3.jpg",
+      "/img/codershq/inspire/gary/gary_s4.jpg",
+      "/img/codershq/inspire/gary/gary_l.jpg"
+    ],
+    "description": {
+      "content": "Prior to joining Facebook as its COO, Sandberg was vice president of global online sales and operations at Google and was involved in its philanthropic arm Google.org. Before that, Sandberg served as chief of staff for United States Secretary of the Treasury Lawrence Summers."
+    },
+    "youtube": "kvFZFU1Q5s4",
+    "videoLink": "https://youtu.be/kvFZFU1Q5s4"
+  }
+  
