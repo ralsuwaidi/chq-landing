@@ -8,7 +8,7 @@ const Footer = ({ hideBGCOLOR }) => {
     <footer className={`${!hideBGCOLOR ? "sub-bg" : ""}`}>
       <div className="container">
         <div className="row">
-          <div className="col-lg-4">
+          <div className="col-lg-6">
             <div className="item md-mb50">
               <div className="title">
                 <h5>Contact Us</h5>
@@ -18,120 +18,38 @@ const Footer = ({ hideBGCOLOR }) => {
                   <span className="icon pe-7s-map-marker"></span>
                   <div className="cont">
                     <h6>Officeal Address</h6>
-                    <p>504 White St . Dawsonville, GA 30534 , New York</p>
+                    <p>Emirates Towers, Ground Floor, Dubai</p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-mail"></span>
                   <div className="cont">
                     <h6>Email Us</h6>
-                    <p>support@gmail.com</p>
-                  </div>
-                </li>
-                <li>
-                  <span className="icon pe-7s-call"></span>
-                  <div className="cont">
-                    <h6>Call Us</h6>
-                    <p>+87986451666</p>
+                    <p>info@ai.gov.ae</p>
                   </div>
                 </li>
               </ul>
             </div>
           </div>
-          <div className="col-lg-4">
-            <div className="item md-mb50">
-              <div className="title">
-                <h5>Recent News</h5>
-              </div>
-              <ul>
-                <li>
-                  <div className="img">
-                    <Link href="/blog-details/blog-details-dark">
-                      <a>
-                        <img src="/img/blog/1.jpg" alt="" />
-                      </a>
-                    </Link>
-                  </div>
-                  <div className="sm-post">
-                    <Link href="/blog-details/blog-details-dark">
-                      <a>
-                        <p>
-                          The Start-Up Ultimate Guide to Make Your WordPress
-                          Journal.
-                        </p>
-                      </a>
-                    </Link>
-                    <Link href="/blog/blog-dark">
-                      <a>
-                        <span className="date">14 sep 2022</span>
-                      </a>
-                    </Link>
-                  </div>
-                </li>
-                <li>
-                  <div className="img">
-                    <Link href="/blog-details/blog-details-dark">
-                      <a>
-                        <img src="/img/blog/2.jpg" alt="" />
-                      </a>
-                    </Link>
-                  </div>
-                  <div className="sm-post">
-                    <Link href="/blog-details/blog-details-dark">
-                      <a>
-                        <p>
-                          The Start-Up Ultimate Guide to Make Your WordPress
-                          Journal.
-                        </p>
-                      </a>
-                    </Link>
-                    <Link href="/blog/blog-dark">
-                      <a>
-                        <span className="date">14 sep 2022</span>
-                      </a>
-                    </Link>
-                  </div>
-                </li>
-                <li>
-                  <div className="subscribe">
-                    <input type="text" placeholder="Type Your Email" />
-                    <span className="subs pe-7s-paper-plane"></span>
-                  </div>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div className="col-lg-4">
+          <div className="col-lg-6">
             <div className="item">
               <div className="logo">
                 <img src={appData.lightLogo} alt="" />
               </div>
               <div className="social">
-                <a href="#0">
-                  <i className="fab fa-facebook-f"></i>
-                </a>
-                <a href="#0">
-                  <i className="fab fa-twitter"></i>
-                </a>
-                <a href="#0">
-                  <i className="fab fa-instagram"></i>
-                </a>
-                <a href="#0">
-                  <i className="fab fa-youtube"></i>
-                </a>
-              </div>
-              <div className="copy-right">
-                <p>
-                  © 2022, Vie Template. Made with passion by
-                  <Link
-                    href="https://themeforest.net/user/themescamp/portfolio"
-                    
-                  >
-                    <a target="_blank">ThemesCamp</a>
-                  </Link>
-                  .
-                </p>
-              </div>
+          <a href="https://www.youtube.com/channel/UC8_TEDN9iFahjCcubTa5esg">
+            <i className="fab fa-youtube"></i>
+          </a>
+          <a href="https://mobile.twitter.com/coders_hq">
+            <i className="fab fa-twitter"></i>
+          </a>
+          <a href="https://discord.gg/GebyQ8Hyb5">
+            <i className="fab fa-discord"></i>
+          </a>
+          <a href="https://www.linkedin.com/showcase/national-program-for-coders-uae?trk=affiliated-pages">
+            <i className="fab fa-linkedin"></i>
+          </a>
+        </div>
             </div>
           </div>
         </div>
