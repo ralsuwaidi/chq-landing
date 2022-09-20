@@ -10,7 +10,7 @@ export default function Calendar() {
 
     return (
         <>
-            <div class="app-placeholder-calendar pl-3 pr-3" data-id="proj_GyrtXkO6bHsghP6rvGk82"></div>
+            <div className="app-placeholder-calendar pl-3 pr-3" data-id="proj_GyrtXkO6bHsghP6rvGk82"></div>
         </>
     );
 }
