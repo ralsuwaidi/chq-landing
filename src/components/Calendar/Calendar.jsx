@@ -9,8 +9,8 @@ export default function Calendar() {
     }, []);
 
     return (
-        <>
-            <div className="app-placeholder-calendar pl-3 pr-3" data-id="proj_GyrtXkO6bHsghP6rvGk82"></div>
-        </>
+        <div className="container-lg">
+            <div className="app-placeholder-calendar" data-id="proj_GyrtXkO6bHsghP6rvGk82"></div>
+        </div>
     );
 }
