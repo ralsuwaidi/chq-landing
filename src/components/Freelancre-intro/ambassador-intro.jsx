@@ -58,27 +58,27 @@ const AmbassadorIntro = () => {
 
               <li className="flex">
                 <div className="numb valign">
-                  <h3>7</h3>
+                  <h3>16</h3>
                 </div>
                 <div className="text valign">
                   <p>
-                    Teams From <br /> 16 Countries
+                    Countries <br /> 7 Teams
                   </p>
                 </div>
               </li>
 
               <li className="mail-us">
-                <a href="mailto:your@email.com?subject=Subject">
+                <a href="https://discord.gg/GebyQ8Hyb5">
                   <div className="flex">
                     <div className="text valign">
                       <div className="full-width">
                         <p>Get In Touch</p>
-                        <h6>ambassador@codershq.ae</h6>
+                        <h6>Message an admin</h6>
                       </div>
                     </div>
                     <div className="mail-icon">
                       <div className="icon-box">
-                        <span className="icon color-font pe-7s-mail"></span>
+                        <span className="fab fa-discord"></span>
                       </div>
                     </div>
                   </div>

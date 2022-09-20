@@ -121,17 +121,17 @@ const IntroWithSliderAssessment = ({ sliderRef }) => {
         <div ref={paginationRef} className="swiper-pagination top botm"></div>
 
         <div className="social-icon">
-          <a href="#0">
-            <i className="fab fa-facebook-f"></i>
+          <a href="https://www.youtube.com/channel/UC8_TEDN9iFahjCcubTa5esg">
+            <i className="fab fa-youtube"></i>
           </a>
-          <a href="#0">
+          <a href="https://mobile.twitter.com/coders_hq">
             <i className="fab fa-twitter"></i>
           </a>
-          <a href="#0">
-            <i className="fab fa-behance"></i>
+          <a href="https://discord.gg/GebyQ8Hyb5">
+            <i className="fab fa-discord"></i>
           </a>
-          <a href="#0">
-            <i className="fab fa-pinterest-p"></i>
+          <a href="https://www.linkedin.com/showcase/national-program-for-coders-uae?trk=affiliated-pages">
+            <i className="fab fa-linkedin"></i>
           </a>
         </div>
       </div>
