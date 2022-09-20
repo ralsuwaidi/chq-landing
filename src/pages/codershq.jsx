@@ -9,6 +9,8 @@ import ServicesCHQ from "../components/CodersHQ/services_chq";
 import ClientsCHQ from "../components/CodersHQ/clients_chq";
 import Navbar from "../components/Navbar/navbar";
 import CallToActionCHQ from "../components/CodersHQ/call-to-action-chq";
+import Video2 from "../components/Video2/video2";
+import VideoLarge from "../components/Video2/video-large";
 
 const Homepage = () => {
   const navbarRef = React.useRef(null);
@@ -48,6 +50,7 @@ const Homepage = () => {
       <ServicesCHQ />
       <WorksCHQ />
       <MinimalAreaCHQ />
+      <VideoLarge youtubeID="4M6nlxyc0mM" img="/img/stock/stock_1.png" />
       <ClientsCHQ theme="light" />
       <CallToActionCHQ />
       <Footer />
