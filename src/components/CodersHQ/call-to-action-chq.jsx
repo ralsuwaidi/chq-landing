@@ -33,7 +33,7 @@ const CallToActionCHQ = ({img}) => {
                   data-wow-delay=".5s"
                 >
                   <div>
-                    <img className='w-75' src='/img/codershq/discord-invite.png' />
+                    <img src='/img/codershq/discord-invite.png' />
                   </div>
                 </a>
               </Link>

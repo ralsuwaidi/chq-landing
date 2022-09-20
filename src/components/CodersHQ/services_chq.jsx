@@ -1,5 +1,5 @@
 import React from "react";
-import featuresData from "../../data/sections/features.json";
+import featuresData from "../../data/index/goals.json";
 
 const ServicesCHQ = ({ style, lines }) => {
   return (
