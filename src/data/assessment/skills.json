@@ -2,27 +2,27 @@
   "teams": [
     {
       "id": 1,
-      "image": "/img/team/1.jpg",
-      "title": "Stephanie Lawrence",
-      "sub": "CEO, Colabrio Media"
+      "image": "/img/codershq/programming-icons/programming-icons_1.svg",
+      "title": "Version Control",
+      "sub": "Git"
     },
     {
       "id": 2,
-      "image": "/img/team/2.jpg",
-      "title": "Alex Regelman",
-      "sub": "CEO, Colabrio Media"
+      "image": "/img/codershq/programming-icons/programming-icons_3.svg",
+      "title": "OOP Scripting Language",
+      "sub": "Ruby"
     },
     {
       "id": 3,
-      "image": "/img/team/3.jpg",
-      "title": "Stacey Stamper",
-      "sub": "CEO, Colabrio Media"
+      "image": "/img/codershq/programming-icons/programming-icons_2.svg",
+      "title": "Blockchain Contract",
+      "sub": "Solidity"
     },
     {
       "id": 4,
-      "image": "/img/team/4.jpg",
-      "title": "Stephanie Lawrence",
-      "sub": "CEO, Colabrio Media"
+      "image": "/img/codershq/programming-icons/programming-icons_4.svg",
+      "title": "Apple Applications",
+      "sub": "Swift"
     }
   ],
   "skills": [
