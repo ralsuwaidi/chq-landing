@@ -2,7 +2,7 @@
     "id": 1,
     "title": { "small": "(get) inspired", "big": "Steve Wozniak" },
     "clientURLLink": "http://woz.org",
-    "projectHeaderImage": "/img/codershq/inspire/william/cover.jpg",
+    "projectHeaderImage": "/img/codershq/inspire/steve/steve.png",
     "clientURLName": "woz.org",
     "date": "Nov 23, 2021",
     "categories": [
@@ -16,11 +16,11 @@
       "content": "Stephen Gary Wozniak, also known by his nickname \"Woz\", is an American electronics engineer, computer programmer, philanthropist, inventor, and technology entrepreneur. In 1976, with business partner Steve Jobs, he co-founded Apple Inc., which later became the world's largest technology company."
     },
     "gallery": [
-      "/img/codershq/inspire/gary/gary_s1.jpg",
-      "/img/codershq/inspire/gary/gary_s2.jpg",
-      "/img/codershq/inspire/gary/gary_s3.jpg",
-      "/img/codershq/inspire/gary/gary_s4.jpg",
-      "/img/codershq/inspire/gary/gary_l.jpg"
+      "/img/codershq/inspire/steve/steve_1.jpeg",
+      "/img/codershq/inspire/steve/steve_2.jpeg",
+      "/img/codershq/inspire/steve/steve_3.jpeg",
+      "/img/codershq/inspire/steve/steve_4.jpeg",
+      "/img/codershq/inspire/steve/steve_5.jpeg"
     ],
     "description": {
       "content": "Steve Wozniak worked closely with Steve Jobs at the early stages of Apple back when it delivered its very first two computers: The Apple 1 and the Apple 2. During Steve Wozniak's session at the coders HQ, he highlighted the critical importance of fostering and enabling coding talent, as an instrument to accelerate humanity's leap into the future."

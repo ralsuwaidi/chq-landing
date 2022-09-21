@@ -8,6 +8,7 @@ import AboutUs4Assessment from "../../components/About-us4/about-us4-assessment"
 import Services2Assessment from "../../components/Services2/services2assessment";
 import ComingSoonBanner from "../../components/Next-project/coming-soon";
 import SkillsAssessment from "../../components/Team/skillsAssessment";
+import ComingSoonCTA from "../../components/Call-to-action/coming-soon";
 
 const Homepage4 = () => {
   const fixedSlider = React.useRef(null);
@@ -48,7 +49,7 @@ const Homepage4 = () => {
         <Services2Assessment style="4item" />
         <AboutUs4Assessment />
         <SkillsAssessment />
-        <ComingSoonBanner/>
+        <ComingSoonCTA />
         <Footer hideBGCOLOR />
       </div>
     </LightTheme>

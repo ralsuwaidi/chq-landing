@@ -35,7 +35,7 @@ const DetailsSteve = () => {
         <InspireDetails projectHeaderData={Inspire} />
         <ProjectIntroduction projectIntroductionData={Inspire.intro} />
         <ProjectDescription projectDescriptionData={Inspire.description} />
-        <InspireGallery imageList={Inspire.gallery}/>
+        {/* <InspireGallery imageList={Inspire.gallery}/> */}
         <Footer />
       </div>
     </DarkTheme>
