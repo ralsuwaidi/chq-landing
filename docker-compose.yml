@@ -12,7 +12,5 @@ services:
           - traefik.http.routers.landing.tls=true
           - traefik.http.routers.landing.tls.certresolver=lets-encrypt
           - traefik.port=80
-        depends_on:
-          - traefik
         env_file:
           - ./.envs/.local
