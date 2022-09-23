@@ -2,25 +2,25 @@
   "teams": [
     {
       "id": 1,
-      "image": "/img/codershq/programming-icons/programming-icons_1.svg",
+      "image": "/img/codershq/programming-icons/code-fork.svg",
       "title": "Version Control",
       "sub": "Git"
     },
     {
       "id": 2,
-      "image": "/img/codershq/programming-icons/programming-icons_3.svg",
+      "image": "/img/codershq/programming-icons/ruby-programming-language.svg",
       "title": "OOP Scripting Language",
       "sub": "Ruby"
     },
     {
       "id": 3,
-      "image": "/img/codershq/programming-icons/programming-icons_2.svg",
+      "image": "/img/codershq/programming-icons/module.svg",
       "title": "Blockchain Contract",
       "sub": "Solidity"
     },
     {
       "id": 4,
-      "image": "/img/codershq/programming-icons/programming-icons_4.svg",
+      "image": "/img/codershq/programming-icons/swift.svg",
       "title": "Apple Applications",
       "sub": "Swift"
     }
