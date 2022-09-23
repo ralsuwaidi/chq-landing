@@ -1,0 +1,16 @@
+landing:
+      image: nginx
+      container_name: chq_landing
+      networks:
+        - web
+      volumes:
+        - ./out:/usr/share/nginx/html
+      labels:
+        - traefik.http.routers.landing.rule=Host(`codershq.ae`)
+        - traefik.http.routers.landing.tls=true
+        - traefik.http.routers.landing.tls.certresolver=lets-encrypt
+        - traefik.port=80
+      depends_on:
+        - traefik
+      env_file:
+        - ./.envs/.local
