@@ -12,3 +12,7 @@ services:
           - traefik.http.routers.landing.tls=true
           - traefik.http.routers.landing.tls.certresolver=lets-encrypt
           - traefik.port=80
+
+networks:
+  web:
+    external: true
