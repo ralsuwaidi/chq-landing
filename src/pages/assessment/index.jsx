@@ -1,12 +1,10 @@
 import React from "react";
 import Navbar from "../../components/Navbar/navbar";
 import Footer from "../../components/Footer/footer";
-import Team from "../../components/Team/team";
 import LightTheme from "../../layouts/Light";
 import IntroWithSliderAssessment from "../../components/Intro-with-slider/intro-with-slider-assessment";
 import AboutUs4Assessment from "../../components/About-us4/about-us4-assessment";
 import Services2Assessment from "../../components/Services2/services2assessment";
-import ComingSoonBanner from "../../components/Next-project/coming-soon";
 import SkillsAssessment from "../../components/Team/skillsAssessment";
 import ComingSoonCTA from "../../components/Call-to-action/coming-soon";
 

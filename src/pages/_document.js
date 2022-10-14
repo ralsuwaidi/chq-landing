@@ -15,11 +15,11 @@ class MyDocument extends Document {
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta
             name="keywords"
-            content="Coders(hq) landing page"
+            content="Coders(hq) website"
           />
           <meta
             name="description"
-            content="Landing page for Coders(hq)"
+            content="A community of coders and programming enthusiasts with access to events, workshops and talks"
           />
           <meta name="author" content="" />
           <link rel="shortcut icon" href="/img/favicon.ico" />

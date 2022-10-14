@@ -9,7 +9,6 @@ import ServicesCHQ from "../components/CodersHQ/services_chq";
 import ClientsCHQ from "../components/CodersHQ/clients_chq";
 import Navbar from "../components/Navbar/navbar";
 import CallToActionCHQ from "../components/CodersHQ/call-to-action-chq";
-import Video2 from "../components/Video2/video2";
 import VideoLarge from "../components/Video2/video-large";
 
 const Homepage = () => {
