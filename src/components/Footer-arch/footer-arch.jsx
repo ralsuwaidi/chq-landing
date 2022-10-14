@@ -16,7 +16,7 @@ const FooterArch = () => {
                 <li>
                   <span className="icon pe-7s-map-marker"></span>
                   <div className="cont">
-                    <h6>Officeal Address</h6>
+                    <h6>Official Address</h6>
                     <p>504 White St . Dawsonville, GA 30534 , New York</p>
                   </div>
                 </li>
