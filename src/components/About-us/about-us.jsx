@@ -19,7 +19,7 @@ const AboutUs = () => {
               <p>{AboutUs1Date.content}</p>
               <Link href="https://ai.gov.ae">
                 <a className="butn bord curve mt-30">
-                  <span>Read More</span>
+                  <span>AI Office</span>
                 </a>
               </Link>
             </div>

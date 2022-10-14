@@ -26,7 +26,7 @@ const AmbassadorCTA = ({img}) => {
 
             <div className="col-md-4 col-lg-3 valign">
               <Link
-                href="https://suwaidi.notion.site/Ambassador-Project-d93e40a17add4c3fa00e50e4f798bee1"
+                href="https://coders-hq.github.io/Docs/#/ambassadors/"
               >
                 <a
                   className="butn bord curve wow fadeInUp"

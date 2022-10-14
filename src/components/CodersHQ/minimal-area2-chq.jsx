@@ -30,8 +30,8 @@ const MinimalAreaCHQ = () => {
                 <p className="wow txt words chars splitting" data-splitting>
                 Coders (hq) is located at the Emirates Towers Boulevard and ia a 550m walk from the 
                 metro station in a beautiful air-conditioned glass bridge overlooking the museum of the future.
-                </p>
-                <p>
+                <br/>
+                <br/>
                   We have events, workshops, hackathons and visits to our space at the towers. 
                   Have a look at our calender and register for upcoming events. If you would 
                   like to lead your own workshop or lecture then please reach out and we would 
