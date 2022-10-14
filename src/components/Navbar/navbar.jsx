@@ -84,11 +84,11 @@ const Navbar = ({ lr, nr, theme }) => {
                 <a className="nav-link">Calendar</a>
               </Link>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <Link href={`https://codershq.ae`}>
                 <a className="nav-link color-font font-weight-bold">(Join)</a>
               </Link>
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>
