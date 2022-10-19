@@ -39,7 +39,7 @@ const Services2Assessment = () => {
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".9s">
             <div className="step-item xbottom">
               <span className="icon pe-7s-magic-wand"></span>
-              <h6>Takent Pool</h6>
+              <h6>Talent Pool</h6>
               <p>
               Categorise coders based on their field of expertise and talent
               </p>
