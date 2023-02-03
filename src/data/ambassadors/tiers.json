@@ -1,0 +1,14 @@
+{
+    "platinum": {
+        "name": "Platinum",
+        "description": "A strong core team to lead the Ambassadors."
+    },
+    "gold": {
+        "name": "Gold",
+        "description": "A strong core team to lead the Ambassadors."
+    },
+    "silver": {
+        "name": "Silver",
+        "description": "A strong core team to lead the Ambassadors."
+    }
+}
